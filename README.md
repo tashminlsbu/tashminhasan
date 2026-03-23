@@ -13,6 +13,8 @@ Business Analyst with experience across QA, data analysis, and digital delivery.
 - SQL (SQLite, PostgreSQL,MSSQL)
 - Python
 - Excel
+- PowerBI
+- Tableau
 - Jira
 - Git & GitHub
 - Draw.io
@@ -21,3 +23,4 @@ Business Analyst with experience across QA, data analysis, and digital delivery.
 ## Current focus
 - Building practical BA and data-focused case studies
 - Translating business problems into clear, testable requirements
+- Turn Data into meaningful insight
